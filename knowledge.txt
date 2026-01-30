@@ -1,0 +1,5 @@
+OpenAI was founded in 2015.
+The CEO of OpenAI is Sam Altman.
+Sam Altman studied at Stanford University.
+LangChain is a framework for building applications using large language models.
+Groq provides fast inference for open-source LLMs.
