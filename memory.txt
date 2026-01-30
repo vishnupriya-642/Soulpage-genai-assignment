@@ -2,13 +2,13 @@
 Human: My name is Vishnupriya V 
 AI: Nice to meet you, Vishnupriya V. How can I assist you today?
 
-Human: repeat my naem
+Human: repeat my name
 AI: Vishnupriya V.
 
 Human: repeat my name
 AI: Vishnupriya V.
 
-Human: repeat my name cool tq bot
+Human: repeat my name cool thank you bot
 AI: Vishnupriya V.
 
 Human: Hello bot how are you
