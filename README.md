@@ -72,15 +72,6 @@ Implementation Details
 - Conversation memory is maintained using session state and a local file.
 - The application runs locally as required in the assignment.
 
- Demo Screenshots
- Home Screen
-![Home](assets/screenshots/home.png)
-
- Asking a Question
-![Question](assets/screenshots/ask_question.png)
-
- Bot Response
-![Response](assets/screenshots/response.png)
 
 
 
